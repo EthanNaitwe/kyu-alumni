@@ -1,0 +1,14 @@
+ - Login Page
+ - Register Page
+ - Footer
+ - Contact
+
+ - Admin Dashboard / Staff Portal ?
+ - News / Blogs Page ?
+ - All Events Page
+ - Scholarships & Donations
+ - Committee Page
+ - Careers & Mentorship Page
+ - Alumni Profiles
+ - About Page (How the Association Started)
+ - 
